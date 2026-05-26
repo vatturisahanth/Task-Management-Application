@@ -1,0 +1,6 @@
+{
+  "name": "Task Manager",
+  "description": "A collaborative full-stack task management application with mock multiplayer, timeline view, real-time activity feed, and Gemini AI task assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
